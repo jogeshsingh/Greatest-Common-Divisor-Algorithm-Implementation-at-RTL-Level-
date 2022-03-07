@@ -1,0 +1,2 @@
+# Greatest-Common-Divisor-Algorithm-Implementation-at-RTL-Level-
+Encompassed registers which were compared using comparator unit , depending upon the output sign if it was greater , less than or equal to , generated an output which computed the result considering the FSM chart and various states that were required for the perfect sequencing of operations .Designed in Xilinx VIVADO tool using Verilog HDL. 
